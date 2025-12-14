@@ -1,0 +1,1 @@
+Basic machine learning practice with titanic data set from kaggle and tutorial from Code with Josh on youtube. Changed a couple of lines to avoid warnings about future changes with pandas 3.0, which I added to the comments. 100% accuracy when testing 25% of the data.
